@@ -1,0 +1,8 @@
+1 . Identifying the distribution of allegations in a particular police unit with time.
+
+https://observablehq.com/@5b0e7a483d797e6e/bar-chart-race
+
+
+2. Identify the relationship between the rank of the police officer and the percentage of allegations sustained.
+
+https://observablehq.com/@5b0e7a483d797e6e/zoomable-bar-chart
